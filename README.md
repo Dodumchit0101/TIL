@@ -8,7 +8,7 @@ I started my AI course on Jan 04, 2021 and since the python course was over just
 
 I will try to post everyday about what I have learned that day and I will try to do so in English(so I can practice writing in English AND study coding at the same time)
 
-What I'm thinking right now is that I'll create two branches: python and SQL(and if I learn more languages they will be added too) and try to organized what I have learned...but with python I will post my work on solving algorithmic problems since the lessons have ended
+What I'm thinking right now is that I'll create two branches: python and SQL(and if I learn more languages they will be added too) and try to organized what I have learned, and additionally for python I will be posting my progress on solving algorithmic problems
 
 I'm not sure how am I supposed to do things right but yes, trying matters
 
