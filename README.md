@@ -14,4 +14,3 @@ I'm not sure how am I supposed to do things right but yes, trying matters
 
 Wish me luck!
 
-print("Hello World!")
